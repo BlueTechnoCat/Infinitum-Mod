@@ -1,0 +1,28 @@
+{
+  "type": "GenericCrafter",
+  "name": "Infinitum Forge",
+  "description": "A machine capable of combining diamonds and galaxite to create infinitum",
+  "details": "The use of raw galaxite as a crafting material has caused the destruction of planets in more than one ocassion",
+  "size": 5,
+  "craftTime": 900,
+  "craftEffect": "smelt",
+  "consumes": {
+    "power": 83.33,
+    "items": {
+      "items": [
+        "test-3-diamond/3",
+        "galaxite-mod-galaxite/3"
+      ]
+    }
+  },
+  "requirements": [
+    "titanium/1200",
+    "thorium/1000",
+    "plastanium/950",
+    "surge-alloy/900",
+    "test-3-diamond/500",
+    "galaxite-mod-drained-galaxite/500"
+  ],
+  "outputItem": "infinitum/1",
+  "research": "alloy-smelter"
+}

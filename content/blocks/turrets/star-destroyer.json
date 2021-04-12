@@ -1,0 +1,55 @@
+{
+  "type": "ItemTurret",
+  "name": "Star Destroyer",
+  "description": "The most powerful weapon in the universe, nothing can stop it's beam of destruction",
+  "details": "No one that has managed to see a blast from this weapon from far away has ever seen anything survive the shot.\n\n [scarlet]Warning:[] The usage of this weapon has been banned in multiple galaxies, use at your own risk.",
+  "size": 12,
+  "health": 60000,
+  "range": 8000,
+  "maxAmmo": 100,
+  "reloadTime": 300,
+  "canBoost": false,
+  "ammoPerShot": 10,
+  "speed": 8000,
+  "shootSound": "railgun",
+  "consumes": {
+    "power": 166.7,
+    "liquid": {
+      "liquid": "cryofluid",
+      "amount": 5,
+      "booster": false,
+      "optional": false
+    }
+  },
+  "ammoTypes": {
+    "infinitum": {
+      "type": "RailBulletType",
+      "damage": 1000000,
+      "updateEffectSeg": 120,
+      "shootEffect": "railShoot",
+      "pierceEffect": "railHit",
+      "updateEffect": "railTrail",
+      "smokeEffect": "shootBig2",
+      "ammoMultiplier": 1,
+      "pierceDamageFactor": 0
+    }
+  },
+  "requirements": [
+    "copper/10000",
+    "lead/10000",
+    "graphite/8000",
+    "silicon/8000",
+    "metaglass/8000",
+    "titanium/9000",
+    "thorium/9000",
+    "plastanium/6000",
+    "surge-alloy/6000",
+    "phase-fabric/3000",
+    "test-3-diamond/3000",
+    "test-3-diamond-alloy/3000",
+    "test-3-dark-diamond/1500",
+    "test-3-shining-diamond/1500",
+    "galaxite-mod-drained-galaxite/1500"
+  ],
+  "research": "foreshadow"
+}

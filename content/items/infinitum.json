@@ -1,0 +1,21 @@
+{
+  "name": "Infinitum",
+  "description": "A material beyond belief, only made of the strongest materials in the universe",
+  "explosiveness": 3,
+  "radioactivity": 3,
+  "flammability": 0,
+  "charge": 0,
+  "cost": 12,
+  "hardness": 12,
+  "color": "ffffff",
+  "research": {
+    "parent": [
+      "test-3-diamond",
+      "galaxite-mod-galaxite"
+    ],
+    "requirements": [
+      "test-3-diamond/10000",
+      "galaxite-mod-galaxite/10000"
+    ]
+  }
+}

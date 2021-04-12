@@ -1,0 +1,12 @@
+{
+  "name": "infinitum-mod",
+  "displayName": "Infinitum Mod",
+  "description": "A mod that creates the most powerful material ever made",
+  "author": "BlueTechno",
+  "version": "0.1 alpha",
+  "minGameVersion": 105,
+  "dependencies": [
+    "galaxite-mod",
+    "test-3"
+  ]
+}
