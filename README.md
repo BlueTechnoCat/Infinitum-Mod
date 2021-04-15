@@ -9,6 +9,8 @@ They can be found here:
 
 TODO:
 - [ ] Make all of the sprites
-  - [ ] infinitum
-  - [ ] infinitum-forge
-  - [ ] infinity-breaker (star-destroyer new name)
+  - [ ] infinitum.png
+  - [ ] infinitum-forge.png
+  - [ ] infinity-breaker
+	- [ ] infinity-breaker.png
+	- [ ] infinity-breaker-base.png
