@@ -11,4 +11,4 @@ TODO:
 - [ ] Make all of the sprites
   - [ ] infinitum
   - [ ] infinitum-forge
-  - [ ] infinity-breaker (star-destroyer new name)
+  - [ ] infinity-breaker
