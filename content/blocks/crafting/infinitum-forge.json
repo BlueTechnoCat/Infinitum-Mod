@@ -24,5 +24,6 @@
     "galaxite-mod-drained-galaxite/500"
   ],
   "outputItem": "infinitum/1",
-  "research": "alloy-smelter"
+  "research": "alloy-smelter",
+  "category": "crafting",
 }

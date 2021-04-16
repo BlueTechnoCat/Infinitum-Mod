@@ -11,6 +11,7 @@
   "canBoost": false,
   "ammoPerShot": 10,
   "speed": 8000,
+  "coolantMultiplier": 1,
   "shootSound": "railgun",
   "consumes": {
     "power": 166.7,
@@ -25,6 +26,7 @@
     "infinitum": {
       "type": "RailBulletType",
       "damage": 1000000,
+      "lenght": 8000,
       "updateEffectSeg": 120,
       "shootEffect": "railShoot",
       "pierceEffect": "railHit",
@@ -51,5 +53,6 @@
     "test-3-shining-diamond/1500",
     "galaxite-mod-drained-galaxite/1500"
   ],
-  "research": "foreshadow"
+  "research": "foreshadow",
+  "category": "turret"
 }
