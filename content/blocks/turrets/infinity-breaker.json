@@ -11,7 +11,7 @@
   "canBoost": false,
   "ammoPerShot": 10,
   "speed": 8000,
-  "coolantMultiplier": 1,
+  "coolantMultiplier": 0,
   "shootSound": "railgun",
   "consumes": {
     "power": 166.7,
@@ -26,7 +26,7 @@
     "infinitum": {
       "type": "RailBulletType",
       "damage": 1000000,
-      "lenght": 8000,
+      "length": 8000,
       "updateEffectSeg": 120,
       "shootEffect": "railShoot",
       "pierceEffect": "railHit",
