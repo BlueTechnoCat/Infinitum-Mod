@@ -9,10 +9,7 @@
   "hardness": 12,
   "color": "ffffff",
   "research": {
-    "parent": [
-      "test-3-diamond",
-      "galaxite-mod-galaxite"
-    ],
+    "parent": "test-3-diamond",
     "requirements": [
       "test-3-diamond/10000",
       "galaxite-mod-galaxite/10000"
