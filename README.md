@@ -9,7 +9,7 @@ They can be found here:
 
 TODO:
 - [ ] Make all of the sprites
-  - [ ] infinitum.png
+  - [x] infinitum.png
   - [ ] infinitum-forge.png
   - [ ] infinity-breaker
 	- [ ] infinity-breaker.png
