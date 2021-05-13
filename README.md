@@ -3,9 +3,9 @@ A mod that combines my two other mods for the most powerful weapon!
 
 They can be found here:
 
-[Diamond Mod](https://www.github.com/BlueThecno/Mindustry-Diamond-Mod)
+[Diamond Mod](https://www.github.com/BlueTechnoCat/Mindustry-Diamond-Mod)
 
-[Galaxite Mod](https://www.github.com/BlueThecno/Galaxite-Mod)
+[Galaxite Mod](https://www.github.com/BlueTechnoCat/Galaxite-Mod)
 
 TODO:
 - [ ] Make all of the sprites
