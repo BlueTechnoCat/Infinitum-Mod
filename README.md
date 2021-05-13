@@ -5,7 +5,7 @@ They can be found here:
 
 [Diamond Mod](https://www.github.com/BlueThecno/Mindustry-Diamond-Mod)
 
-[Galaxite Mod](..../Galaxite-Mod)
+[Galaxite Mod](https://www.github.com/BlueThecno/Galaxite-Mod)
 
 TODO:
 - [ ] Make all of the sprites
